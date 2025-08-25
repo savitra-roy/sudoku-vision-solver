@@ -8,7 +8,7 @@ Here is an example of the solver in action:
 
 | Unsolved Board | Solved Board |
 | :---: | :---: |
-| ![Unsolved Sudoku](https://github.com/savitra-roy/sudoku-vision-solver/blob/main/images/img6.jpg?raw=true) | ![Solved Sudoku]((https://github.com/savitra-roy/sudoku-vision-solver/blob/main/solved/solved4.png?raw=true)) |
+| ![Unsolved Sudoku](https://github.com/savitra-roy/sudoku-vision-solver/blob/main/images/img6.jpg?raw=true) | ![Solved Sudoku](https://github.com/savitra-roy/sudoku-vision-solver/blob/main/solved/solved4.png?raw=true) |
 
 ## How It Works
 
